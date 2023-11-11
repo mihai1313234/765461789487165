@@ -1,4 +1,8 @@
 # spotify_clone
+
+                                        <-------   SAMPLE OF APPLICATION   -------->
+![spotify clone screenshot](https://github.com/Amardeep-sys/spotify_clone/assets/139546920/1c9c8535-6365-4fb4-b7e0-7df1f9248219)
+
 This is the simple web music player application made using HTML CSS and JavaScript.
 
 About me-        I am beginner in javascript and Learning "How to make music player using javascript".
