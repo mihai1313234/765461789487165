@@ -25,4 +25,4 @@ BASIC CONTROLS         - There is fixed controls section in which one play anoth
 
 2.                      -----------   SINCE THIS APPLICATTION IS STILL IN DEVELOPMENT PROCESS. SO, NO MORE FEATURES ADDED    -------------
 
-3.                                                                   WE ARE CURRENTLY WORKING ON IT !
+3.                                                            WE ARE CURRENTLY WORKING ON IT !
